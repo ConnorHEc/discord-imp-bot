@@ -1,0 +1,1 @@
+"""STRATZ IMP Discord bot."""

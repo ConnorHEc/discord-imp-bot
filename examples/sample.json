@@ -1,0 +1,291 @@
+{
+  "data": {
+    "player": {
+      "steamAccount": {
+        "name": "离线示例玩家（虚构）"
+      },
+      "matches": [
+        {
+          "id": 9876500001,
+          "startDateTime": 1735689600,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 30
+            }
+          ]
+        },
+        {
+          "id": 9876500002,
+          "startDateTime": 1735686000,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 25
+            }
+          ]
+        },
+        {
+          "id": 9876500003,
+          "startDateTime": 1735682400,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 20
+            }
+          ]
+        },
+        {
+          "id": 9876500004,
+          "startDateTime": 1735678800,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 15
+            }
+          ]
+        },
+        {
+          "id": 9876500005,
+          "startDateTime": 1735675200,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 10
+            }
+          ]
+        },
+        {
+          "id": 9876500006,
+          "startDateTime": 1735671600,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 5
+            }
+          ]
+        },
+        {
+          "id": 9876500007,
+          "startDateTime": 1735668000,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 0
+            }
+          ]
+        },
+        {
+          "id": 9876500008,
+          "startDateTime": 1735664400,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": -5
+            }
+          ]
+        },
+        {
+          "id": 9876500009,
+          "startDateTime": 1735660800,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": -10
+            }
+          ]
+        },
+        {
+          "id": 9876500010,
+          "startDateTime": 1735657200,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": null
+            }
+          ]
+        },
+        {
+          "id": 9876500011,
+          "startDateTime": 1735653600,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 18
+            }
+          ]
+        },
+        {
+          "id": 9876500012,
+          "startDateTime": 1735650000,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 22
+            }
+          ]
+        },
+        {
+          "id": 9876500013,
+          "startDateTime": 1735646400,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 12
+            }
+          ]
+        },
+        {
+          "id": 9876500014,
+          "startDateTime": 1735642800,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 8
+            }
+          ]
+        },
+        {
+          "id": 9876500015,
+          "startDateTime": 1735639200,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 4
+            }
+          ]
+        },
+        {
+          "id": 9876500016,
+          "startDateTime": 1735635600,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": -2
+            }
+          ]
+        },
+        {
+          "id": 9876500017,
+          "startDateTime": 1735632000,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": -8
+            }
+          ]
+        },
+        {
+          "id": 9876500018,
+          "startDateTime": 1735628400,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 16
+            }
+          ]
+        },
+        {
+          "id": 9876500019,
+          "startDateTime": 1735624800,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 24
+            }
+          ]
+        },
+        {
+          "id": 9876500020,
+          "startDateTime": 1735621200,
+          "players": [
+            {
+              "steamAccountId": 999999,
+              "imp": 100
+            },
+            {
+              "steamAccountId": 123456789,
+              "imp": 6
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
